@@ -22,3 +22,10 @@ npm install
 
 //Rode o projeto usando o nodemon 
 nodemon ./src/index.js
+
+
+============================
+OUTROS
+============================
+
+Caso queira realizar testes , pode utilizar a plataforma POSTMAN , onde podera todo o fluxo da API com os metodos disponiveis na plataforma.
